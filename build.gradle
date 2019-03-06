@@ -43,5 +43,26 @@ ext {
     kotlin_version  = '1.2.50'
     databinding     = '3.0.0'
 
+    gson            = '2.7'
+    okHttp          = '3.10.0'
+    retrofit        = '2.4.0'
+    intercepter     = '3.4.1'
+    adapter         = '1.0.0'
+    dagger          = '2.15'
+    rxjava          = '2.0.5'
+    rxandroid       = '2.0.2'
+
+    facebook        ='1.5.0'
+    butterKnife     = '8.8.1'
+
+    picassoVersion  ='2.5.2'
+    circleimageVersion='2.1.0'
+    picassodownloaderVersion='1.1.0'
+
+    firebase        = '15.0.2'
+    firebasedatabase= '15.0.1'
+    googleservice   = '15.0.1'
+
+
 }
 

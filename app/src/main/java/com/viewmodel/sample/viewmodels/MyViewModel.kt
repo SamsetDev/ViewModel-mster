@@ -19,4 +19,13 @@ class MyViewModel : ViewModel() {
     }
 
     fun getColorResource() = colorResource
+
+
+    /*  When activity is destryed this automatically called
+    * */
+    override fun onCleared() {
+        super.onCleared()
+
+        // todo your logic
+    }
 }
